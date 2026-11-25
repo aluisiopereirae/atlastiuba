@@ -4,6 +4,8 @@ Atlas interativo da anatomia da **tiúba** (*Melipona fasciculata* Smith, 1854),
 
 Página didática da **Embrapa Maranhão**, feita na identidade visual da Embrapa.
 
+**Acesso:** [aluisiopereirae.github.io/atlastiuba](https://aluisiopereirae.github.io/atlastiuba/)
+
 ## O que a página faz
 
 - **Vista externa:** cabeça, mesossoma e metassoma, asas, pernas, corbícula, espiráculos e peças bucais.
